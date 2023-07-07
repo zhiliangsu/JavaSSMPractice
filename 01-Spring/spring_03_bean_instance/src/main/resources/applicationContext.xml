@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!--构造方法实例化-->
+    <bean id="bookDao" name="dao" class="com.hitech.dao.impl.BookDaoImpl">
+        <constructor-arg name="i" value="100"/>
+    </bean>
+
+    <!--静态工厂实例化-->
+    <bean id="orderDao" class="com.hitech.factory.OrderDaoFactory" factory-method="getOrderDao"/>
+
+    <!--实例工厂实例化方法一:-->
+    <bean id="userFactory" class="com.hitech.factory.UserDaoFactory"/>
+    <bean id="userDao" factory-bean="userFactory" factory-method="getUserDao"/>
+
+    <!--实例工厂实例化方法二:-->
+    <bean id="userDao2" class="com.hitech.factory.UserDaoFactoryBean"/>
+
+</beans>
