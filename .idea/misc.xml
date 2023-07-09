@@ -17,6 +17,7 @@
         <option value="$PROJECT_DIR$/01-Spring/spring_11_annotation_bean/pom.xml" />
         <option value="$PROJECT_DIR$/01-Spring/spring_12_annotation_bean_manager/pom.xml" />
         <option value="$PROJECT_DIR$/01-Spring/spring_13_annotation_di/pom.xml" />
+        <option value="$PROJECT_DIR$/01-Spring/spring_14_annotation_third_bean_manager/pom.xml" />
       </list>
     </option>
   </component>
