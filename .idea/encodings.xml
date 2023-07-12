@@ -51,5 +51,7 @@
     <file url="file://$PROJECT_DIR$/02-SpringMVC/springmvc_01_quickstart/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/02-SpringMVC/springmvc_02_bean_load/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/02-SpringMVC/springmvc_02_bean_load/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-SpringMVC/springmvc_03_request_mapping/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-SpringMVC/springmvc_03_request_mapping/src/main/resources" charset="UTF-8" />
   </component>
 </project>

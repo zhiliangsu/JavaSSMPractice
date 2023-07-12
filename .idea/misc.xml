@@ -30,6 +30,7 @@
         <option value="$PROJECT_DIR$/01-Spring/spring_24_case_transfer/pom.xml" />
         <option value="$PROJECT_DIR$/02-SpringMVC/springmvc_01_quickstart/pom.xml" />
         <option value="$PROJECT_DIR$/02-SpringMVC/springmvc_02_bean_load/pom.xml" />
+        <option value="$PROJECT_DIR$/02-SpringMVC/springmvc_03_request_mapping/pom.xml" />
       </list>
     </option>
   </component>
