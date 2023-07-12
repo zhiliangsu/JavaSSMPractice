@@ -37,6 +37,7 @@
         <option value="$PROJECT_DIR$/02-SpringMVC/springmvc_07_rest_case/pom.xml" />
         <option value="$PROJECT_DIR$/02-SpringMVC/springmvc_08_ssm/pom.xml" />
         <option value="$PROJECT_DIR$/02-SpringMVC/springmvc_09_result/pom.xml" />
+        <option value="$PROJECT_DIR$/02-SpringMVC/springmvc_10_exception/pom.xml" />
       </list>
     </option>
   </component>
