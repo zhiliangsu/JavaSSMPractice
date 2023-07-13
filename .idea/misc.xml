@@ -4,7 +4,6 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/01-Spring/spring_01_quickstart/pom.xml" />
         <option value="$PROJECT_DIR$/01-Spring/spring_02_base_config/pom.xml" />
         <option value="$PROJECT_DIR$/01-Spring/spring_09_datasource/pom.xml" />
         <option value="$PROJECT_DIR$/01-Spring/spring_10_container/pom.xml" />
@@ -40,7 +39,51 @@
         <option value="$PROJECT_DIR$/02-SpringMVC/springmvc_10_exception/pom.xml" />
         <option value="$PROJECT_DIR$/02-SpringMVC/springmvc_11_page/pom.xml" />
         <option value="$PROJECT_DIR$/02-SpringMVC/springmvc_12_interceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/01-Spring/spring_01_quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/03-MavenAdvance/maven_02_ssm/pom.xml" />
+        <option value="$PROJECT_DIR$/03-MavenAdvance/maven_03_pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/03-MavenAdvance/maven_04_dao/pom.xml" />
+        <option value="$PROJECT_DIR$/03-MavenAdvance/maven_01_parent/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/01-Spring/spring_01_quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/01-Spring/spring_02_base_config/pom.xml" />
+        <option value="$PROJECT_DIR$/01-Spring/spring_03_bean_instance/pom.xml" />
+        <option value="$PROJECT_DIR$/01-Spring/spring_04_lifecycle/pom.xml" />
+        <option value="$PROJECT_DIR$/01-Spring/spring_05_di_set/pom.xml" />
+        <option value="$PROJECT_DIR$/01-Spring/spring_06_constructor/pom.xml" />
+        <option value="$PROJECT_DIR$/01-Spring/spring_07_autowire/pom.xml" />
+        <option value="$PROJECT_DIR$/01-Spring/spring_08_di_collection/pom.xml" />
+        <option value="$PROJECT_DIR$/01-Spring/spring_09_datasource/pom.xml" />
+        <option value="$PROJECT_DIR$/01-Spring/spring_10_container/pom.xml" />
+        <option value="$PROJECT_DIR$/01-Spring/spring_11_annotation_bean/pom.xml" />
+        <option value="$PROJECT_DIR$/01-Spring/spring_12_annotation_bean_manager/pom.xml" />
+        <option value="$PROJECT_DIR$/01-Spring/spring_13_annotation_di/pom.xml" />
+        <option value="$PROJECT_DIR$/01-Spring/spring_14_annotation_third_bean_manager/pom.xml" />
+        <option value="$PROJECT_DIR$/01-Spring/spring_15_spring_mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/01-Spring/spring_16_spring_junit/pom.xml" />
+        <option value="$PROJECT_DIR$/01-Spring/spring_18_aop_quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/01-Spring/spring_19_aop_pointcut/pom.xml" />
+        <option value="$PROJECT_DIR$/01-Spring/spring_20_aop_advice_type/pom.xml" />
+        <option value="$PROJECT_DIR$/01-Spring/spring_21_case_interface_run_speed/pom.xml" />
+        <option value="$PROJECT_DIR$/01-Spring/spring_22_aop_advice_data/pom.xml" />
+        <option value="$PROJECT_DIR$/01-Spring/spring_23_case_handle_password/pom.xml" />
+        <option value="$PROJECT_DIR$/01-Spring/spring_24_case_transfer/pom.xml" />
+        <option value="$PROJECT_DIR$/02-SpringMVC/springmvc_01_quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/02-SpringMVC/springmvc_02_bean_load/pom.xml" />
+        <option value="$PROJECT_DIR$/02-SpringMVC/springmvc_03_request_mapping/pom.xml" />
+        <option value="$PROJECT_DIR$/02-SpringMVC/springmvc_04_request_param/pom.xml" />
+        <option value="$PROJECT_DIR$/02-SpringMVC/springmvc_05_response/pom.xml" />
+        <option value="$PROJECT_DIR$/02-SpringMVC/springmvc_06_rest/pom.xml" />
+        <option value="$PROJECT_DIR$/02-SpringMVC/springmvc_07_rest_case/pom.xml" />
+        <option value="$PROJECT_DIR$/02-SpringMVC/springmvc_08_ssm/pom.xml" />
+        <option value="$PROJECT_DIR$/02-SpringMVC/springmvc_09_result/pom.xml" />
+        <option value="$PROJECT_DIR$/02-SpringMVC/springmvc_10_exception/pom.xml" />
+        <option value="$PROJECT_DIR$/02-SpringMVC/springmvc_11_page/pom.xml" />
+        <option value="$PROJECT_DIR$/02-SpringMVC/springmvc_12_interceptor/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="temurin-17" project-jdk-type="JavaSDK">
