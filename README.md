@@ -1,0 +1,2 @@
+# JavaSSMPractice
+For JavaSSM practice.
