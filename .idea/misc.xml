@@ -44,6 +44,7 @@
         <option value="$PROJECT_DIR$/03-MavenAdvance/maven_03_pojo/pom.xml" />
         <option value="$PROJECT_DIR$/03-MavenAdvance/maven_04_dao/pom.xml" />
         <option value="$PROJECT_DIR$/03-MavenAdvance/maven_01_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/04-SpringBoot/springboot_01_quickstart/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
@@ -81,8 +82,11 @@
         <option value="$PROJECT_DIR$/02-SpringMVC/springmvc_08_ssm/pom.xml" />
         <option value="$PROJECT_DIR$/02-SpringMVC/springmvc_09_result/pom.xml" />
         <option value="$PROJECT_DIR$/02-SpringMVC/springmvc_10_exception/pom.xml" />
-        <option value="$PROJECT_DIR$/02-SpringMVC/springmvc_11_page/pom.xml" />
         <option value="$PROJECT_DIR$/02-SpringMVC/springmvc_12_interceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/03-MavenAdvance/maven_01_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/03-MavenAdvance/maven_02_ssm/pom.xml" />
+        <option value="$PROJECT_DIR$/03-MavenAdvance/maven_03_pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/03-MavenAdvance/maven_04_dao/pom.xml" />
       </set>
     </option>
   </component>
