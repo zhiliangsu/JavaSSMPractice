@@ -54,6 +54,7 @@
         <option value="$PROJECT_DIR$/05-MybatisPlus/mybatisplus_01_quickstart/pom.xml" />
         <option value="$PROJECT_DIR$/05-MybatisPlus/mybatisplus_02_dql/pom.xml" />
         <option value="$PROJECT_DIR$/05-MybatisPlus/mybatisplus_03_dml/pom.xml" />
+        <option value="$PROJECT_DIR$/05-MybatisPlus/mybatisplus_04_generator/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
