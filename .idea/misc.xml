@@ -53,6 +53,7 @@
         <option value="$PROJECT_DIR$/04-SpringBoot/springboot_09_ssm/pom.xml" />
         <option value="$PROJECT_DIR$/05-MybatisPlus/mybatisplus_01_quickstart/pom.xml" />
         <option value="$PROJECT_DIR$/05-MybatisPlus/mybatisplus_02_dql/pom.xml" />
+        <option value="$PROJECT_DIR$/05-MybatisPlus/mybatisplus_03_dml/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
