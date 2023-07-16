@@ -96,6 +96,13 @@
         <option value="$PROJECT_DIR$/03-MavenAdvance/maven_02_ssm/pom.xml" />
         <option value="$PROJECT_DIR$/03-MavenAdvance/maven_03_pojo/pom.xml" />
         <option value="$PROJECT_DIR$/03-MavenAdvance/maven_04_dao/pom.xml" />
+        <option value="$PROJECT_DIR$/04-SpringBoot/springboot_01_quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/04-SpringBoot/springboot_02_base_config/pom.xml" />
+        <option value="$PROJECT_DIR$/04-SpringBoot/springboot_03_read_data/pom.xml" />
+        <option value="$PROJECT_DIR$/04-SpringBoot/springboot_06_config_file/pom.xml" />
+        <option value="$PROJECT_DIR$/04-SpringBoot/springboot_07_test/pom.xml" />
+        <option value="$PROJECT_DIR$/04-SpringBoot/springboot_08_mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/04-SpringBoot/springboot_09_ssm/pom.xml" />
       </set>
     </option>
   </component>
